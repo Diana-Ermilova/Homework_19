@@ -1,7 +1,7 @@
 import pytest
 from appium.options.android import UiAutomator2Options
 from appium.options.ios import XCUITestOptions
-from selene import browser
+
 import os
 from appium import webdriver
 import allure_commons
